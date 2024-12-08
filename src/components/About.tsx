@@ -9,7 +9,7 @@ export function About() {
           <div className="text-center">
             <img
               className="w-48 h-48 rounded-full mx-auto mb-4 object-cover"
-              src="/images/Ansh.JPG"
+              src="/images/Ansh.png"
               alt="Ansh Porwal"
             />
             <h3 className="text-xl font-semibold text-gray-900">Ansh Porwal</h3>
