@@ -9,7 +9,7 @@ export function About() {
           <div className="text-center">
             <img
               className="w-48 h-48 rounded-full mx-auto mb-4 object-cover"
-              src="/images/Ansh.png"
+              src="static/images/Ansh.png"
               alt="Ansh Porwal"
             />
             <h3 className="text-xl font-semibold text-gray-900">Ansh Porwal</h3>
@@ -22,7 +22,7 @@ export function About() {
           <div className="text-center">
             <img
               className="w-48 h-48 rounded-full mx-auto mb-4 object-cover"
-              src="/images/Siya.JPG"
+              src="static/images/Siya.JPG"
               alt="Siya Pareek"
             />
             <h3 className="text-xl font-semibold text-gray-900">Siya Pareek</h3>
